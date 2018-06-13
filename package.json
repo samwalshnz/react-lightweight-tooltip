@@ -1,5 +1,5 @@
 {
-  "name": "react-lightweight-tooltip",
+  "name": "@samwalshnz/react-lightweight-tooltip",
   "description": "A lightweight React.js tooltip component",
   "author": "Michal Cumpl",
   "user": "mcumpl",
@@ -63,9 +63,9 @@
     "phantomjs-prebuilt": "^2.1.9",
     "prop-types": "^15.5.0",
     "purecss": "^0.6.0",
-    "react": "^15.2.1",
+    "react": "^16.4.0",
     "react-addons-test-utils": "^15.3.0",
-    "react-dom": "^15.3.0",
+    "react-dom": "^16.4.0",
     "react-ghfork": "^0.3.3",
     "style-loader": "^0.13.1",
     "sync-exec": "^0.6.2",
